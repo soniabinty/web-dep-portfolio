@@ -130,3 +130,23 @@ main{
     border-radius: 5px;
     box-shadow: 0px 6px 50px 0 rgba(0, 0, 0, 0.6);
 }
+/* res */
+.res-contain{
+    display: flex;
+    gap: 24px;
+}
+.ex-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+
+.ex-des,.ex-sub-title{
+    color: #757575;
+}
+.res hr{
+    margin: 30px 8px;
+}
+.res-dn{
+    margin-top: 50px ;
+}
